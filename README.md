@@ -1,5 +1,12 @@
 # Soroban Smart Contract Tutorial: Building a Guestbook DApp
 
+## Progress
+
+- [x] **Part 1: Environment Setup** - Complete
+- [x] **Part 2: Smart Contract Development** - Complete, with comprehensive tests added.
+- [ ] **Part 3: Deployment & Interaction** - In Progress
+- [x] **Part 4: Frontend Integration** - Complete, with improved UI/UX and error handling.
+
 A complete guide to building, deploying, and interacting with smart contracts on the Stellar blockchain using Soroban.
 
 Table of Contents
